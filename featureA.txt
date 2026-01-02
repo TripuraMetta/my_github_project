@@ -1,1 +1,1 @@
-This file belongs to branch feature-A.
+This file belongs to feature-A branch.
